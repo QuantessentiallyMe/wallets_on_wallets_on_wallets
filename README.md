@@ -1,5 +1,7 @@
 # wallets_on_wallets_on_wallets
 
+![HD Wallet](https://weteachblockchain.org/assets/img/courses/bitcoin-for-developers/KWallets-02.jpg)
+
 ## Synopsis
 _________________________________________________
 
